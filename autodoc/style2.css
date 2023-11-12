@@ -1,0 +1,95 @@
+.form-body {
+    margin-top: 25px;
+}
+
+.primary-btn {
+    margin: 2rem 1rem;
+}
+
+#trackbtn {
+    border: 2px solid #007fff;
+    background-color: transparent;
+    color: var(--btn-color);
+    padding: 1rem 2rem;
+    border-radius: var(--border-radius-2);
+    cursor: pointer;
+    margin: 1rem 0;
+}
+
+.foot-column {
+    margin-bottom: 5rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+form {
+    position: relative;
+    width: 80%;
+    border-radius: 1rem;
+    background: #fff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.form-inner {
+    padding: 25px;
+    font-size: 1.6rem;
+}
+
+.form-btn{
+    margin-left: 4rem;
+    width: 81%;
+}
+
+.form-select{
+    display: block;
+    width: 85%;
+    padding: 15px;
+    margin-left: 4rem;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 9px;
+    color: #646464;
+    background: #e2e6ed;
+}
+
+.form-inner input{
+    display: block;
+    width: 85%;
+    padding: 15px;
+    margin-left: 4rem;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 9px;
+    background: #e2e6ed;
+}
+
+.form-inner label{
+    margin-left: 4rem;
+}
+
+
+@media (min-width: 568px) {
+    form {
+        width: 40%;
+        margin: 0 auto;
+    }
+}
+
+
+.modal-container{
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.modal{
+    background-color: #fff;
+}
