@@ -16,8 +16,8 @@ The Onroad Assistance Booking System is a comprehensive web application designed
   - Secure login for towing drivers to access and manage assigned assistance requests.
   - Notifications for new job assignments and real-time status updates.
 
-- **Microsoft SQL Server Integration:**
-  - Utilizes Microsoft SQL Server for secure and efficient data storage.
+- **MySQL Database Integration:**
+  - Utilizes MySQL Database for secure and efficient data storage.
 
 ## Technologies Used
 
@@ -26,7 +26,7 @@ The Onroad Assistance Booking System is a comprehensive web application designed
   - HTML, CSS, and JavaScript for the user interface.
   
 - **Backend:**
-  - Microsoft SQL Server for database management.
+  - MySQL for database management.
   - PHP for server-side logic and interaction with the database.
 
 
