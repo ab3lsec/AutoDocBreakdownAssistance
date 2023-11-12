@@ -29,6 +29,19 @@ The Onroad Assistance Booking System is a comprehensive web application designed
   - MySQL for database management.
   - PHP for server-side logic and interaction with the database.
 
+## Setup Instructions
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ab3lsec/AutoDocBreakdownAssistance.git
+   cd AutoDocBreakdownAssistance
+   ```
+2. Install XAMPP and Start Apache and MySQL.
+3. Copy the autodoc folder and Paste it into `C:\xampp\htdocs`.
+4. Access the `phpmyadmin` Site via localhost/phpmyadmin.
+5. Create the Database and Import the Database Configuration File.
+6. Now Access the Project from http://localhost/autodoc/.
    
-![UserHomePage1](https://github.com/ab3lsec/AutoDocBreakdownAssistance/assets/87868050/e85d1ef9-4156-4356-83a0-f00102a55e9e)
+![UserHomePage1](https://github.com/ab3lsec/AutoDocBreakdownAssistance/assets/87868050/dad205a8-35b5-451c-9fac-c05fa6b910f2)
+![UserHomePage2](https://github.com/ab3lsec/AutoDocBreakdownAssistance/assets/87868050/c398aca2-0b8f-4259-84c5-18891d7e66ac)
+
