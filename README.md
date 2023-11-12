@@ -43,5 +43,4 @@ The Onroad Assistance Booking System is a comprehensive web application designed
 6. Now Access the Project from http://localhost/autodoc/.
    
 ![UserHomePage1](https://github.com/ab3lsec/AutoDocBreakdownAssistance/assets/87868050/dad205a8-35b5-451c-9fac-c05fa6b910f2)
-![UserHomePage2](https://github.com/ab3lsec/AutoDocBreakdownAssistance/assets/87868050/c398aca2-0b8f-4259-84c5-18891d7e66ac)
 
