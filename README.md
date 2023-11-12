@@ -29,12 +29,6 @@ The Onroad Assistance Booking System is a comprehensive web application designed
   - Microsoft SQL Server for database management.
   - PHP for server-side logic and interaction with the database.
 
-## Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/onroad-assistance.git
-   cd onroad-assistance
 
    
 ![UserHomePage1](https://github.com/ab3lsec/AutoDocBreakdownAssistance/assets/87868050/e85d1ef9-4156-4356-83a0-f00102a55e9e)
